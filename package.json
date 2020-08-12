@@ -1,0 +1,25 @@
+{
+  "name": "recipeapp",
+  "version": "1.0.0",
+  "description": "recipe app project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mander59/RecipeApp.git"
+  },
+  "author": "Matt Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mander59/RecipeApp/issues"
+  },
+  "homepage": "https://github.com/mander59/RecipeApp#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^2.1.5",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {}
+}
